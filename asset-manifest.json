@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/PedroAmigos/firstproject.git/static/css/main.7d86e887.chunk.css",
-    "main.js": "/PedroAmigos/firstproject.git/static/js/main.d181c16e.chunk.js",
-    "main.js.map": "/PedroAmigos/firstproject.git/static/js/main.d181c16e.chunk.js.map",
-    "runtime-main.js": "/PedroAmigos/firstproject.git/static/js/runtime-main.5f5b5bb7.js",
-    "runtime-main.js.map": "/PedroAmigos/firstproject.git/static/js/runtime-main.5f5b5bb7.js.map",
-    "static/js/2.9e39d926.chunk.js": "/PedroAmigos/firstproject.git/static/js/2.9e39d926.chunk.js",
-    "static/js/2.9e39d926.chunk.js.map": "/PedroAmigos/firstproject.git/static/js/2.9e39d926.chunk.js.map",
-    "index.html": "/PedroAmigos/firstproject.git/index.html",
-    "precache-manifest.b5febd9c9c985b0e67ef6163fee030b9.js": "/PedroAmigos/firstproject.git/precache-manifest.b5febd9c9c985b0e67ef6163fee030b9.js",
-    "service-worker.js": "/PedroAmigos/firstproject.git/service-worker.js",
-    "static/css/main.7d86e887.chunk.css.map": "/PedroAmigos/firstproject.git/static/css/main.7d86e887.chunk.css.map",
-    "static/js/2.9e39d926.chunk.js.LICENSE.txt": "/PedroAmigos/firstproject.git/static/js/2.9e39d926.chunk.js.LICENSE.txt"
+    "main.css": "/firstproject/static/css/main.7d86e887.chunk.css",
+    "main.js": "/firstproject/static/js/main.d181c16e.chunk.js",
+    "main.js.map": "/firstproject/static/js/main.d181c16e.chunk.js.map",
+    "runtime-main.js": "/firstproject/static/js/runtime-main.c576feae.js",
+    "runtime-main.js.map": "/firstproject/static/js/runtime-main.c576feae.js.map",
+    "static/js/2.9e39d926.chunk.js": "/firstproject/static/js/2.9e39d926.chunk.js",
+    "static/js/2.9e39d926.chunk.js.map": "/firstproject/static/js/2.9e39d926.chunk.js.map",
+    "index.html": "/firstproject/index.html",
+    "precache-manifest.2c59f82ff9b1ed48e5df0c67eedda74f.js": "/firstproject/precache-manifest.2c59f82ff9b1ed48e5df0c67eedda74f.js",
+    "service-worker.js": "/firstproject/service-worker.js",
+    "static/css/main.7d86e887.chunk.css.map": "/firstproject/static/css/main.7d86e887.chunk.css.map",
+    "static/js/2.9e39d926.chunk.js.LICENSE.txt": "/firstproject/static/js/2.9e39d926.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5f5b5bb7.js",
+    "static/js/runtime-main.c576feae.js",
     "static/js/2.9e39d926.chunk.js",
     "static/css/main.7d86e887.chunk.css",
     "static/js/main.d181c16e.chunk.js"
