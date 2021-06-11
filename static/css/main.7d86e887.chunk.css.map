@@ -1,0 +1,1 @@
+{"version":3,"sources":["book-list.css","app.css"],"names":[],"mappings":"AAAA,iBACI,qBACJ,CCFA,OACI,iBACJ","file":"main.7d86e887.chunk.css","sourcesContent":[".book-list table {\n    background-color: white;\n}\n","button {\n    margin-right: 10px;\n}\n"]}
